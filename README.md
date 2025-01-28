@@ -17,14 +17,20 @@
 
 - 📝Connect with me on LinkedIn, where I regularly share amazing content! [www.linkedin.com/in/mahesh-pagrut/](www.linkedin.com/in/mahesh-pagrut/)
 
-- 📫 How to reach me **maheshdpmayshu@gmailcom**
+- 📫 How to reach me 
+<p>
+  <a href="mailto:maheshdpmayshu@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Reach%20Me%20at-%E2%9D%97%20maheshdpmayshu%40gmail.com-9B59B6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail me at maheshdpmayshu@gmail.com" />
+  </a>
+</p>
 
   
 <h3>Connect with me:</h3>
 <p>
-<a href="https://twitter.com/demirov_vlad" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="demirov_vlad" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vladyslav-demirov-029b141b3" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/vladyslav-demirov-029b141b3" /></a>
+  <a href="https://www.instagram.com/imaxvibe/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="imaxvibe" /></a>
+  <a href="https://www.linkedin.com/in/mahesh-pagrut/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mahesh-pagrut" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -48,7 +54,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h4 align="left">Backend Technologies:</h4>
+<h4 align="left">Tools & Platforms:</h4>
 <p>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
@@ -60,6 +66,3 @@
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" />
 </p>
 
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=demirov-vlad&show_icons=true&locale=en&layout=compact" alt="demirov-vlad" /></p>
