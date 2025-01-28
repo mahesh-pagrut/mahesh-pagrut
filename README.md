@@ -5,15 +5,19 @@
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
 <h3 align="center">A passionate frontend developer from India </h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/mahesh-pagrut/" target="blank"><img src="https://img.shields.io/linkdin/connect/mahesh-pagrut?logo=linkdin&style=for-the-badge" alt="mahesh pagrut" /></a> </p>
+<p align="left"> 
+  <a href="https://instagram.com/imaxvibe" target="blank">
+    <img src="https://img.shields.io/badge/Follow-mahesh--pagrut-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="mahesh-pagrut" />
+  </a> 
+</p>
 
-- 🔭 I’m currently working on **OLX.ua Killer App**
+- 🔭  I'm a front-end developer passionate about **AI-driven design and development**
 
-- 👨‍💻 All of my projects are available at [https://www.demirovdev.com](https://www.demirovdev.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-wg4w.vercel.app/](https://portfolio-wg4w.vercel.app/) 
 
-- 📝 I regularly write articles on [www.linkedin.com/in/vladyslav-demirov-029b141b3](www.linkedin.com/in/vladyslav-demirov-029b141b3)
+- 📝Connect with me on LinkedIn, where I regularly share amazing content! [www.linkedin.com/in/mahesh-pagrut/](www.linkedin.com/in/mahesh-pagrut/)
 
-- 📫 How to reach me **demirov.vlad@gmail.com**
+- 📫 How to reach me **maheshdpmayshu@gmailcom**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qv_34hs22PoaLbHfsYFOwCGxEMF3QZJS/view?usp=sharing](https://drive.google.com/file/d/1qv_34hs22PoaLbHfsYFOwCGxEMF3QZJS/view?usp=sharing)
 
