@@ -1,10 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&center=true&random=false&width=1024&height=100&lines=Hi%2C+I'm+Vlad;A+passionate+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&center=true&random=false&width=1024&height=100&lines=Hi%2C+I'm+Mahesh;A+Passionate+Front-End+Developer)](https://git.io/typing-svg)
+
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">A passionate frontend developer from Ukraine 🇺🇦</h3>
+<h3 align="center">A passionate frontend developer from India </h3>
 
-<p align="left"> <a href="https://twitter.com/demirov_vlad" target="blank"><img src="https://img.shields.io/twitter/follow/demirov_vlad?logo=twitter&style=for-the-badge" alt="demirov_vlad" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mahesh-pagrut/" target="blank"><img src="https://img.shields.io/linkdin/connect/mahesh-pagrut?logo=linkdin&style=for-the-badge" alt="mahesh pagrut" /></a> </p>
 
 - 🔭 I’m currently working on **OLX.ua Killer App**
 
