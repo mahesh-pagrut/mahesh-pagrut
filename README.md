@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">A passionate frontend developer from India </h3>
+<h3 align="center">I’m a passionate frontend developer from India, eager to master full-stack development. I enjoy solving challenges, creating dynamic user experiences, and continuously improving my skills. With a strong commitment to learning, I strive to build innovative and impactful web applications.</h3>
 
 <p align="left">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=mahesh-pagrut&label=Profile%20views&color=0e75b6&style=plastic" alt="mahesh-pagrut" /></a>
