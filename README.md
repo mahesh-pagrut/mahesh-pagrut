@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-wg4w.vercel.app/](https://portfolio-wg4w.vercel.app/) 
 
-- 📝Connect with me on LinkedIn, where I regularly share amazing content! [www.linkedin.com/in/mahesh-pagrut/](www.linkedin.com/in/mahesh-pagrut/)
+- 📝Connect with me on LinkedIn, where I regularly share amazing content! [https://www.linkedin.com/in/mahesh-pagrut/](https://www.linkedin.com/in/mahesh-pagrut/)
 
 - 📫 How to reach me 
 <p>
