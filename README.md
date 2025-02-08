@@ -6,11 +6,17 @@
 <h3 align="center">🚀 Passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
-  With hands-on experience in multiple projects and team leadership, I possess strong research and analytical skills.  
-  My curiosity drives me toward exploring frontend-driven AI and large language models. 💡  
+  🔬 Coming from a microbiology background, I honed my research and analytical skills by working with complex data,  
+  developing a keen eye for detail and problem-solving. My scientific journey trained me to think critically, adapt quickly,  
+  and tackle challenges with a structured approach.  
   <br><br>
-  I'm always eager to grow and strive to build innovative and user-friendly web applications. ✨
+  💻 However, my passion for technology drove me to transition into software development. Now, I leverage my analytical mindset  
+  to build innovative, user-friendly web applications. I am particularly fascinated by frontend-driven AI, large language models,  
+  and the intersection of science and technology.  
+  <br><br>
+  🚀 Always eager to learn and grow, I strive to create seamless digital experiences while continuously expanding my skill set.  
 </p>
+
 
 <p align="left">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=mahesh-pagrut&label=Profile%20views&color=0e75b6&style=plastic" alt="mahesh-pagrut" /></a>
