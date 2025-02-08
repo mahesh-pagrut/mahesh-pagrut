@@ -3,32 +3,14 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center" style="
-  font-size: 1.5rem;
-  font-weight: bold;
-  color: #4A90E2;
-  background: linear-gradient(90deg, #ff8a00, #e52e71);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  padding: 10px;
-  border-radius: 8px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-">
-  🚀 Passionate Frontend Developer from India 🇮🇳
-</h3>
+<h3 align="center">🚀 Passionate Frontend Developer from India 🇮🇳</h3>
 
-<p align="center" style="
-  font-size: 1.2rem;
-  color: #333;
-  max-width: 700px;
-  margin: auto;
-  line-height: 1.6;
-">
-  With hands-on experience in multiple projects and team leadership, I possess strong research and analytical skills. My curiosity drives me toward exploring frontend-driven AI and large language models. 💡  
+<p align="center">
+  With hands-on experience in multiple projects and team leadership, I possess strong research and analytical skills.  
+  My curiosity drives me toward exploring frontend-driven AI and large language models. 💡  
   <br><br>
   I'm always eager to grow and strive to build innovative and user-friendly web applications. ✨
 </p>
-
 
 <p align="left">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=mahesh-pagrut&label=Profile%20views&color=0e75b6&style=plastic" alt="mahesh-pagrut" /></a>
