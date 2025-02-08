@@ -6,16 +6,18 @@
 <h3 align="center">🚀 Passionate Frontend Developer from India 🇮🇳</h3>
 
 <p align="center">
-  🔬 Coming from a microbiology background, I honed my research and analytical skills by working with complex data,  
-  developing a keen eye for detail and problem-solving. My scientific journey trained me to think critically, adapt quickly,  
-  and tackle challenges with a structured approach.  
+  🔬 With a background in microbiology, I developed strong research and analytical skills,  
+  mastering the art of working with complex data and problem-solving. My scientific journey  
+  trained me to think critically, adapt quickly, and embrace new challenges with a structured approach.  
   <br><br>
-  💻 However, my passion for technology drove me to transition into software development. Now, I leverage my analytical mindset  
-  to build innovative, user-friendly web applications. I am particularly fascinated by frontend-driven AI, large language models,  
-  and the intersection of science and technology.  
-  <br><br>
-  🚀 Always eager to learn and grow, I strive to create seamless digital experiences while continuously expanding my skill set.  
+  💻 However, my passion for technology led me to transition into software development, where I now build  
+  innovative and user-friendly web applications. My quick adaptability has helped me learn and grow in this field,  
+  and I am particularly fascinated by frontend-driven AI, large language models, and the intersection of science and technology.  
+  <br>
+  🚀 Always eager to expand my knowledge and skill set, I strive to create seamless digital experiences  
+  and contribute to cutting-edge advancements in tech.  
 </p>
+
 
 
 <p align="left">
