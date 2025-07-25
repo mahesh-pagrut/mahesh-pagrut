@@ -3,16 +3,25 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">🚀 Passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Frontend Developer | India 🇮🇳</h3>
+
+<br>
+
 <p align="center">
-  🎯 Crafting clean, responsive, and user-focused web applications.<br>
-  🧠 Exploring the edge of frontend development and AI-driven technologies.<br>
-  🔍 Turning complex ideas into intuitive digital experiences.<br>
-  📚 Always learning, building, and pushing boundaries — one line of code at a time.
+  <code>
+    I specialize in building clean, responsive, and user-focused web applications.<br>
+    With a deep curiosity for technology, I’m constantly exploring the synergy<br>
+    between frontend development and AI-powered interfaces.<br><br>
+    My foundation in research and problem-solving helps me turn ideas<br>
+    into intuitive digital experiences.<br><br>
+    I believe in improving a little every day — one line of code at a time.
+  </code>
 </p>
 
----
+<br>
+
 <p align="center"><i>“Obsessed with improving, driven by curiosity.”</i></p>
+
 
 
 
