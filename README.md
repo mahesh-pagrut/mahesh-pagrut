@@ -4,18 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
 <h3 align="center">🚀 Passionate Frontend Developer from India 🇮🇳</h3>
-
-<p align="center">
-  🔬 With a background in microbiology, I developed strong research and analytical skills,  
-  mastering the art of working with complex data and problem-solving. My scientific journey  
-  trained me to think critically, adapt quickly, and embrace new challenges with a structured approach.  
-  <br><br>
-  💻 However, my passion for technology led me to transition into software development, where I now build  
-  innovative and user-friendly web applications. My quick adaptability has helped me learn and grow in this field,  
-  and I am particularly fascinated by frontend-driven AI, large language models, and the intersection of science and technology.  
-  <br>
-  🚀 Always eager to expand my knowledge and skill set, I strive to create seamless digital experiences  
-  and contribute to cutting-edge advancements in tech.  
+<br><br>
+<p align="center">  
+🎯 Passionate about crafting clean, responsive, and user-focused web applications.  
+🧠 Always exploring the intersection of frontend development and AI-driven technologies.  
+🔍 With a strong foundation in research and problem-solving, I love turning ideas into intuitive digital experiences.  
+📚 Constantly learning, building, and striving to improve—one line of code at a time.
 </p>
 
 
