@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
 <h3 align="center">🚀 Frontend Developer | India 🇮🇳</h3>
-
 <br>
 
 <p align="center">
@@ -18,14 +17,10 @@
   </code>
 </p>
 
-<br>
-
 ---
 <p align="center"><i>“Obsessed with improving, driven by curiosity.”</i></p>
 
-
-
-
+---
 <p align="left">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=mahesh-pagrut&label=Profile%20views&color=0e75b6&style=plastic" alt="mahesh-pagrut" /></a>
 </p>
