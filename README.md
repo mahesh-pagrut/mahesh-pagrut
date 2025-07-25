@@ -17,7 +17,6 @@
   </code>
 </p>
 
----
 <p align="center"><i>“Obsessed with improving, driven by curiosity.”</i></p>
 
 ---
