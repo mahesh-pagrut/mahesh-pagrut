@@ -7,9 +7,7 @@
 <br>
 
 <p align="center">
-  <code>
-    I specialize in building clean, responsive, and user-focused web applications. With a deep curiosity for technology, I’m constantly exploring the synergy between frontend development and AI-powered interfaces. My foundation in research and problem-solving helps me turn ideas into intuitive digital experiences. I believe in improving a little every day — one line of code at a time.
-  </code>
+  <code>I specialize in building clean, responsive, and user-focused web applications. With a deep curiosity for technology, I’m constantly exploring the synergy between frontend development and AI-powered interfaces. My foundation in research and problem-solving helps me turn ideas into intuitive digital experiences. I believe in improving a little every day — one line of code at a time.</code>
 </p>
 
 <p align="center"><i>“Obsessed with improving, driven by curiosity.”</i></p>
