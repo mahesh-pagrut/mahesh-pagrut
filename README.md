@@ -4,13 +4,15 @@
 
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
 <h3 align="center">🚀 Passionate Frontend Developer from India 🇮🇳</h3>
-<br><br>
-<p align="center">  
-🎯 Passionate about crafting clean, responsive, and user-focused web applications.  
-🧠 Always exploring the intersection of frontend development and AI-driven technologies.  
-🔍 With a strong foundation in research and problem-solving, I love turning ideas into intuitive digital experiences.  
-📚 Constantly learning, building, and striving to improve—one line of code at a time.
+<p align="center">
+  🎯 Crafting clean, responsive, and user-focused web applications.<br>
+  🧠 Exploring the edge of frontend development and AI-driven technologies.<br>
+  🔍 Turning complex ideas into intuitive digital experiences.<br>
+  📚 Always learning, building, and pushing boundaries — one line of code at a time.
 </p>
+
+---
+<p align="center"><i>“Obsessed with improving, driven by curiosity.”</i></p>
 
 
 
