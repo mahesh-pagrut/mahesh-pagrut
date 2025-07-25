@@ -11,15 +11,16 @@
   <code>
     I specialize in building clean, responsive, and user-focused web applications.<br>
     With a deep curiosity for technology, I’m constantly exploring the synergy<br>
-    between frontend development and AI-powered interfaces.<br><br>
+    between frontend development and AI-powered interfaces.<br>
     My foundation in research and problem-solving helps me turn ideas<br>
-    into intuitive digital experiences.<br><br>
+    into intuitive digital experiences.<br>
     I believe in improving a little every day — one line of code at a time.
   </code>
 </p>
 
 <br>
 
+---
 <p align="center"><i>“Obsessed with improving, driven by curiosity.”</i></p>
 
 
