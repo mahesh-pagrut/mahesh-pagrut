@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&center=true&random=false&width=1024&height=100&lines=Hi%2C+I'm+Mahesh;A+Passionate+Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=2000&pause=1000&color=2EC4B6&center=true&random=false&width=1024&height=100&lines=Hi%2C+I'm+Mahesh;A+Passionate+Front-End+Developer)](https://git.io/typing-svg)
+
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
