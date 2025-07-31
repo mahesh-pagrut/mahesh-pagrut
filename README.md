@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=2000&pause=1000&color=B2FFF1&center=true&vCenter=true&width=1000&height=90&lines=Hi%2C+I'm+Mahesh;Crafting+cool+UIs+with+love)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=2200&pause=900&color=C7FFF1&center=true&vCenter=true&width=980&height=75&lines=Hi%2C+I'm+Mahesh;Designing+Delightful+Digital+Experiences)](https://git.io/typing-svg)
+
 
 
 
