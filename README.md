@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=32&duration=2700&pause=1000&color=DAFFF7&center=true&vCenter=true&width=1024&height=100&lines=Hi%2C+I'm+Mahesh;Turning+Ideas+Into+Interfaces)](https://git.io/typing-svg)
 
+
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
-<h3 align="center">🚀 Frontend Developer | India 🇮🇳</h3>
+
+<h2 align="center">Frontend Developer | India 🇮🇳</h2>
 <br>
+
 
 <p align="center">
   <code>I specialize in building clean, responsive, and user-focused web applications. With a deep curiosity for technology, I’m constantly exploring the synergy between frontend development and AI-powered interfaces. My foundation in research and problem-solving helps me turn ideas into intuitive digital experiences. I believe in improving a little every day — one line of code at a time.</code>
