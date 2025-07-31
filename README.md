@@ -1,10 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=32&duration=2700&pause=1000&color=DAFFF7&center=true&vCenter=true&width=1024&height=100&lines=Hi%2C+I'm+Mahesh;Turning+Ideas+Into+Interfaces)](https://git.io/typing-svg)
 
-
-
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
-<h1 align="center">Hi 👋, I'm Mahesh</h1>
 <h3 align="center">🚀 Frontend Developer | India 🇮🇳</h3>
 <br>
 
