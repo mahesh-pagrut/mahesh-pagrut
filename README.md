@@ -27,20 +27,9 @@
 
 - 🔭  I'm a front-end developer passionate about **AI-driven design and development**
 
-### 🌐 Projects & Portfolio
-🛠️ Check out my work:  
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%F0%9F%93%8D-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-wg4w.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-wg4w.vercel.app/](https://portfolio-wg4w.vercel.app/) 
 
----
-
-### 🤝 Let’s Connect!
-📬 I'm active on LinkedIn — sharing insights, dev updates, and creative thoughts:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%F0%9F%92%AC-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahesh-pagrut/)
-
----
-
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-pagrut&show_icons=true&theme=tokyonight)
-
+- 📝Connect with me on LinkedIn, where I regularly share amazing content! [https://www.linkedin.com/in/mahesh-pagrut/](https://www.linkedin.com/in/mahesh-pagrut/)
 
 - 📫 How to reach me 
 <p>
