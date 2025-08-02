@@ -27,7 +27,7 @@
 
 - 🔭  I'm a front-end developer passionate about **AI-driven design and development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-wg4w.vercel.app/](https://portfolio-wg4w.vercel.app/) 
+- 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/My%20Portfolio-%F0%9F%93%8D-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-wg4w.vercel.app/)
 
 - 📝Connect with me on LinkedIn, where I regularly share amazing content! [https://www.linkedin.com/in/mahesh-pagrut/](https://www.linkedin.com/in/mahesh-pagrut/)
 
