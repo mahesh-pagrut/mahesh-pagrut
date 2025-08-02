@@ -21,19 +21,19 @@
 </p>
 
 <h3 align="left">Connect with me: </h3>
-
 <br />
-
+<p>
   <a href="https://portfolio-wg4w.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-%F0%9F%96%8B-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-
+</p>
+<p>
   <a href="mailto:maheshdpmayshu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Reach%20Me%20📧-maheshdpmayshu@gmail.com-9B59B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
 
 <p align="left">
-
   <a href="https://www.instagram.com/imaxvibe/" target="_blank">
     <img src="https://img.shields.io/badge/Follow-%40imaxvibe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
