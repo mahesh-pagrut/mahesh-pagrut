@@ -25,7 +25,6 @@
   </a> 
 </p>
 
-- 🔭  I'm a front-end developer passionate about **AI-driven design and development**
 
 - 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/My%20Portfolio-%F0%9F%93%8D-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-wg4w.vercel.app/)
 
