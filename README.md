@@ -24,12 +24,17 @@
     <img src="https://img.shields.io/badge/Follow-mahesh--pagrut-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="mahesh-pagrut" />
   </a> 
 </p>
+<p align="left">
+  <a href="https://portfolio-wg4w.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-%F0%9F%96%8B-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
+</p>
 
-
-- 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/My%20Portfolio-%F0%9F%93%8D-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-wg4w.vercel.app/)
-
-- 📝Connect with me on LinkedIn, where I regularly share amazing content! [https://www.linkedin.com/in/mahesh-pagrut/](https://www.linkedin.com/in/mahesh-pagrut/)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahesh-pagrut/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-Mahesh%20Pagrut-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 - 📫 How to reach me 
 <p>
   <a href="mailto:maheshdpmayshu@gmail.com" target="blank">
