@@ -14,27 +14,11 @@
 
 <p align="center"><i>“Obsessed with improving, driven by curiosity.”</i></p>
 
----<!-- Profile Views -->
+---
+<!-- Profile Views -->
 <p align="left">
   <a href="#"><img src="https://komarev.com/ghpvc/?username=mahesh-pagrut&label=Profile%20views&color=0e75b6&style=plastic" alt="mahesh-pagrut" /></a>
 </p>
-
-<!-- Quick Links: Portfolio | LinkedIn | Instagram | Email -->
-<p align="left">
-  <a href="https://portfolio-wg4w.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%F0%9F%96%8B-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahesh-pagrut/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/imaxvibe/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:maheshdpmayshu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%F0%9F%93%A7%20maheshdpmayshu@gmail.com-9B59B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -68,5 +52,33 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" />
+</p>
+<!-- Connect Section Title -->
+<h3 align="center">🤝 Connect with me</h3>
+
+<!-- Spacer -->
+<br />
+
+<!-- Centered Badges in a Container -->
+<p align="center">
+  <!-- Instagram - Follow -->
+  <a href="https://www.instagram.com/imaxvibe/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-%40imaxvibe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <!-- LinkedIn - Connect -->
+  <a href="https://www.linkedin.com/in/mahesh-pagrut/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-Mahesh%20Pagrut-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://portfolio-wg4w.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-%F0%9F%96%8B-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:maheshdpmayshu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Reach%20Me%20📧-maheshdpmayshu@gmail.com-9B59B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
