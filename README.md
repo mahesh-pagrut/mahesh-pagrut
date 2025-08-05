@@ -17,8 +17,11 @@
 ---
 <!-- Profile Views -->
 <p align="left">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=mahesh-pagrut&label=Profile%20views&color=0e75b6&style=plastic" alt="mahesh-pagrut" /></a>
+  <a href="https://github.com/mahesh-pagrut" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=mahesh-pagrut&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views for mahesh-pagrut" />
+  </a>
 </p>
+
 
 <h3 align="left">Connect with me: </h3>
 <br />
