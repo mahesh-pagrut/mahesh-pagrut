@@ -12,7 +12,7 @@
 <p align="center">
   <code>Hello there! I'm <b>Mahesh</b> A Software Developer and alumnus of <b>Masai School</b>, specializing in Frontend Development with experience in React.js and Next.js. Passionate about creating clean, responsive, and user-friendly applications, while exploring how AI-powered interfaces can make the web smarter and more exciting. With a curious mindset and problem-solving approach, ideas turn into intuitive solutions..</code>
   <br>
-  <code>Love meeting like-minded people and exploring fresh ideas. Drop me a message the next great project might start here!</code>
+  <code>Love meeting like-minded people and exploring fresh ideas. Drop me a message the next great project might start here!.</code>
 </p>
 
 <p align="center"><i>“Obsessed with improving, driven by curiosity.”</i></p>
