@@ -16,7 +16,7 @@
   <code>Love meeting like-minded people and exploring fresh ideas. Drop me a message the next great project might start here!.</code>
 </p>
 
-<p align="center"><i>“Obsessed with improving, driven by curiosity.”</i></p>
+<p align="center"><i>“Frontend engineering meets creativity & AI.”</i></p>
 
 ---
 <!-- Profile Views -->
