@@ -40,8 +40,8 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/shivay_m13/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-%40imaxvibe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/shivaay_m13/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-%40shivaay_m13-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
   <a href="https://www.linkedin.com/in/mahesh-pagrut/" target="_blank">
