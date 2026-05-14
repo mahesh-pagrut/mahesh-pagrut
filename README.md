@@ -4,7 +4,8 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 
-<h2 align="center">Frontend Developer | India 🇮🇳</h2>
+<h2 align="center">Frontend Engineer • React • Next.js • TypeScript • Gen AI
+| India 🇮🇳</h2>
 <br>
 
 <!--Hello there! I'm <b>Mahesh</b> A Software Developer at <b>VisualCore</b> and alumnus of <b>Masai School -->
