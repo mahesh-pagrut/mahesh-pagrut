@@ -40,7 +40,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/imaxvibe/" target="_blank">
+  <a href="https://www.instagram.com/shivay_m13/" target="_blank">
     <img src="https://img.shields.io/badge/Follow-%40imaxvibe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
