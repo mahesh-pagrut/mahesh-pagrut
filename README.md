@@ -18,7 +18,7 @@
 <p align="center"><i>“Frontend engineering meets creativity & AI.”</i></p>
 
 ---
-<!-- Profile Views -->
+
 <p align="left">
   <a href="https://github.com/mahesh-pagrut" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=mahesh-pagrut&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views for mahesh-pagrut" />
